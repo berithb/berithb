@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... engineering
 - 📫 How to reach me ...batybelite12@gmail.com
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ... I have long hair
+- ⚡ Fun fact: ...
 
 <!---
 berithb/berithb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
